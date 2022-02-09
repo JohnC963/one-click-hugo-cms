@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a bang"
+title: "Buen Cafe Con Radio Poderr 96.3 FM"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
