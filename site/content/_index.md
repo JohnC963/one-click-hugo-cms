@@ -4,7 +4,7 @@ subtitle: Disfruta de una variedad de musica
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Radio Poderr?
-    text: "Radio Poderr 96.3 FM is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "La Estacion con Musica y Vaiedad en el gusto de toda la Raza,Del pueblo y para el pueblo.Conectate y comunicate con nosotros tu eres el que manda en rdio Poderr 96.3 FM.Con Mas Poder!"
 intro:
     heading: "What we offer"
     text: "Radio Poderr 96.3 FM is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
