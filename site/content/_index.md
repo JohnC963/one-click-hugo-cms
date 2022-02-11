@@ -3,7 +3,7 @@ title: "Buen Cafe Con Radio Poderr 96.3 FM"
 subtitle: Disfruta de una variedad de musica
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Radio Poderr?
+    heading: Conectate con Nosostros!
     text: "La Estacion con Musica y Vaiedad en el gusto de toda la Raza,Del pueblo y para el pueblo.Conectate y comunicate con nosotros tu eres el que manda en rdio Poderr 96.3 FM.Con Mas Poder!"
 intro:
     heading: "What we offer"
