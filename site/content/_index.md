@@ -1,6 +1,6 @@
 ---
-title: "Radio Poderr 96.3 FM"
-subtitle: Disfruta un buen Cafe con buena musica!
+title: ""
+subtitle:
 
 image: /img/Radio Poderr Horizontal.jpg
 blurb:
