@@ -2,7 +2,7 @@
 title: ""
 subtitle:
 
-image: /img/1920 x 1280 header200.jpg
+image: /img/Artboard 1-20.jpg
 blurb:
     heading: Conectate con Nosostros!
     text: "La Estacion con Musica y Vaiedad en el gusto de toda la Raza,Del pueblo y para el pueblo.Conectate y comunicate con nosotros tu eres el que manda en radio Poderr 96.3 FM.Con Mas Poderr!"
