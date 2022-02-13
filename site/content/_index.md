@@ -1,6 +1,6 @@
 ---
-title: "Buen Cafe Con Radio Poderr 96.3 FM"
-subtitle: Disfruta de una variedad de musica
+title: "Radio Poderr 96.3 FM"
+subtitle: Disfruta un buen Cafe con buena musica!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Conectate con Nosostros!
