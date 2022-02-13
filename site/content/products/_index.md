@@ -1,18 +1,15 @@
 ---
-title: Our Coffee
+title: Buena Musica!
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Una Estacion que te que toca musica de todos los gusta .Nuestra metad es entretenerte y nunca ser aburridos.Asi que disfrita de lo bueno con Radio Poderr! Del pueblo y para el pueblo!
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        Con Una Tasita de Cafe! Umm!green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
