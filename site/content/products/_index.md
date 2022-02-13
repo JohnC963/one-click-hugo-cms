@@ -2,9 +2,9 @@
 title: Buena Musica!
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Nuestra Mission
 description: >-
- Una Estacion que te que toca musica de todos los gusta .Nuestra metad es entretenerte y nunca ser aburridos.Asi que disfrita de lo bueno con Radio Poderr! Del pueblo y para el pueblo!
+ Una estacion que te toca la musica de todos los gustos .Nuestra metad es entretenerte y nunca ser aburrirte porque tu eres lo importante.Asi que disfrita de lo bueno con Radio Poderr! Del pueblo y para el pueblo!
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
