@@ -8,9 +8,7 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Nos gustaria conocer tus ideas y opinion sobre la estacion. Comunicate y platicanos como podriamos mejorar. Nos gustaria poder ayudar a la cominidad y saber como poder ayudarte.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
