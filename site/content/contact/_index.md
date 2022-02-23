@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/poderr KALDI.svg"
+logo: "/img/Radio Poderr.svg"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
