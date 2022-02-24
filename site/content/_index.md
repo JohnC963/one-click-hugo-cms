@@ -15,7 +15,7 @@ products:
     - image: /img/illustrations-coffee-gear.svg
       text: "El Artista,El Escenario,El Altavoz las Luzes El Locutor Talves Impresionan pero eso solo es para la pieza mas imprecionante e Importante que son ustedes!, Y lo Atesiguan los artistas que sigues,Todo Es Por Ti!"
 values:
-    heading: Music Nueva
+    heading: Musica Nueva
     text: Nuestra Radio Fusora esta lista para tocarte las mejores melodias!Pura Buena Rola En La Radio que tiene todo el poderr de entretenerte! En tu Auto ,En La Troka,En el Jale y Hasta en el baño. Escucha tus rolas favoritas atraves del sonido de alta definicion HD 100% digital.
 ---
 
