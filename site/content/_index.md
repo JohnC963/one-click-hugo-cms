@@ -18,4 +18,18 @@ values:
     heading: Musica Nueva
     text: Nuestra Radio Fusora esta lista para tocarte las mejores melodias!Pura Buena Rola En La Radio que tiene todo el poderr de entretenerte! En tu Auto ,En La Troka,En el Jale y Hasta en el baño. Escucha tus rolas favoritas atraves del sonido de alta definicion HD 100% digital.
 ---
+<!DOCTYPE html>
+</html>
+  <Head>
+      <title>audio</title>
+  </head>
+  </head>
 
+  <body>
+      <audio controls>
+          <source=<iframe src="https://zeno.fm/player/radio-poderr-96-3" width="575" height="250" frameborder="0" scrolling="no"></iframe><a href="https://zeno.fm/" target="_blank" style="display: block; font-size: 0.9em; line-height: 10px;">A Zeno.FM Station</a>
+      </audio>
+
+  </body>
+
+</html> 
