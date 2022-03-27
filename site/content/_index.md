@@ -13,7 +13,7 @@ products:
     - image: img/illustrations-coffee.svg
       text: "Queremos Mejorar constante mente porque nuestra gente que son ustedes se merece solo lo mejor y nada mas que lo mejor.En radio Poderr creemos que la ideas de nuestro publico nos ayudan a creser porque en la union es la fuerza"
     - image: /img/illustrations-coffee-gear.svg
-      text: "El Artista,El Escenario,El Altavoz las Luzes El Locutor Talves Impresionan pero eso solo es para la pieza mas imprecionante e Importante que son ustedes!, Y lo Atesiguan los artistas que sigues,Todo Es Por Ti!"
+      text: "El Artista,El Escenario,El Altavoz las Luzes Talves Impresionan pero eso solo es para la pieza mas Importante que son ustedes! Nuestro publico es lo mas importante y se merece lo mejor de lo mejor!"
 values:
     heading: Musica Nueva
     text: Nuestra Radio Fusora esta lista para tocarte las mejores melodias!Pura Buena Rola En La Radio que tiene todo el poderr de entretenerte! En tu Auto ,En La Troka,En el Jale y Hasta en el baño. Escucha tus rolas favoritas atraves del sonido de alta definicion HD 100% digital.
