@@ -34,17 +34,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    El Sitio de la estacion que es de la raza,del pueblo y para el pueblo ,pa tanto brinco estando el piso esta tan parejo .Mexicanos 100% hasta las cachas ni mas ni menos,Gracias por tu amable sintonia!
 main:
-  heading: Great coffee with no compromises
+  heading: La Estacion De La Raza!
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+      comentanos cuales son tus rolas favoritas ,que canciones te gustan tu eres prioridad,Del pueblo y para el pueblo!.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -61,7 +55,7 @@ testimonials:
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
+      Con Kaldi y Radio poderr Hay mucho Sabor! This is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
