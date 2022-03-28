@@ -32,7 +32,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Somos del Pueblo y Para El Pueblo
   description: >
     El Sitio de la estacion que es de la raza,del pueblo y para el pueblo ,pa tanto brinco estando el piso esta tan parejo .Mexicanos 100% hasta las cachas ni mas ni menos,Gracias por tu amable sintonia!
 main:
